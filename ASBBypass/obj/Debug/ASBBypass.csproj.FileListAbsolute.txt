@@ -1,0 +1,6 @@
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\bin\Debug\ASBBypass.dll
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\bin\Debug\ASBBypass.pdb
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\obj\Debug\ASBBypass.csprojAssemblyReference.cache
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\obj\Debug\ASBBypass.csproj.CoreCompileInputs.cache
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\obj\Debug\ASBBypass.dll
+C:\Users\Rasta\source\repos\ASBBypass\ASBBypass\obj\Debug\ASBBypass.pdb
